@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<warehouse>
+  <items>
+    <item>
+      <resourceID>str1234</resourceID>
+      <amount>123</amount>
+    </item>
+  </items>
+  <holdingRequests>
+    <request>
+      <requestID>str1234</requestID>
+      <item>
+        <resourceID>str1234</resourceID>
+        <amount>123</amount>
+      </item>
+    </request>
+  </holdingRequests>
+</warehouse>
